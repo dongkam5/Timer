@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+
 .btn {
   display: flex;
   justify-content: center;
@@ -17,8 +18,8 @@
   position: absolute;
   right: 0;
 }
-.timer {
-  height: 100vh;
+.timer #timerTime {
+  height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
